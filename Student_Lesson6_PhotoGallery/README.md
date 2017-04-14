@@ -4,19 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 14 2017
 
 ### Student Name:  
-(First and Last Name)
+Peter Strouss
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment we had to give interactivity and function to the photo gallery app to allow us to scroll between pictures using the left and right arrows, and change how many pictures are displayed.
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to access elements by using selectors, ids, class names, and tags.
+2. You can have images sourced on the .js rather than the .html
+3. How to add and remove document nodes (and what they are).
